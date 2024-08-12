@@ -85,8 +85,7 @@
   "targetAudience": {
     "UG": ["Under Graduate Students 2nd Year"]
   },
-  "objective": "To understand the fundamentals of electrical measuring instruments."
-  "To understand the circuit configurations of electrical bridges and their applications."
+  "objective": "To understand the fundamentals of electrical measuring instruments.To understand the circuit configurations of electrical bridges and their applications."
   "courseAlignment": {
     "description": "The syllabi of this lab aligns to the following universities in India.",
     "universities": [
