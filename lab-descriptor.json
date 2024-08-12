@@ -19,14 +19,14 @@
       "deploy": true
     },
     {
-      "name": "Measurement of unknown resistance by Wheatstone’s bridge",
+      "name": "Measurement of unknown resistance by Wheatstoneâs bridge",
       "short-name": "wheatstone-bridge",
       "repo": "https://github.com/virtual-labs/exp-wheatstone-bridge-iitr",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
-      "name": "Measurement of low resistance by Kelvin’s double bridge",
+      "name": "Measurement of low resistance by Kelvinâs double bridge",
       "short-name": "kelvin-sdouble-bridge",
       "repo": "https://github.com/virtual-labs/exp-kelvin-sdouble-bridge-iitr",
       "tag": "v1.0.0",
@@ -40,14 +40,14 @@
       "deploy": true
     },
     {
-      "name": "To measure the value of unknown inductance with the help of Anderson’s Bridge",
+      "name": "To measure the value of unknown inductance with the help of Andersonâs Bridge",
       "short-name": "andersons-bridge",
       "repo": "https://github.com/virtual-labs/exp-andersons-bridge-iitr",
       "tag": "v1.0.0",
       "deploy": true
     },
     {
-      "name": "To find the value of unknown inductance using a Maxwell’s Bridge",
+      "name": "To find the value of unknown inductance using a Maxwellâs Bridge",
       "short-name": "maxwells-bridge",
       "repo": "https://github.com/virtual-labs/exp-maxwells-bridge-iitr",
       "tag": "v1.0.0",
@@ -83,14 +83,16 @@
     }
   ],
   "targetAudience": {
-    "UG": ["Under Graduate Students 2nd Year"]
+    "UG": [
+      "Under Graduate Students 2nd Year"
+    ]
   },
   "objective": "To understand the fundamentals of electrical measuring instruments.To understand the circuit configurations of electrical bridges and their applications.",
   "courseAlignment": {
     "description": "The syllabi of this lab aligns to the following universities in India.",
     "universities": [
-      "Uttarakhand Technical University – Measurements and Instruments (BEET-303)",
-      "Dr APJ Abdul Kalam – Measurement and Instruments",
+      "Uttarakhand Technical University â Measurements and Instruments (BEET-303)",
+      "Dr APJ Abdul Kalam â Measurement and Instruments",
       "IKG Punjab Technical University - Measurement and Instruments"
     ]
   }
