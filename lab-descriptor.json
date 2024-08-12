@@ -42,7 +42,7 @@
     {
       "name": "To measure the value of unknown inductance with the help of Anderson’s Bridge",
       "short-name": "andersons-bridge",
-      "repo": "https://github.com/virtual-labs/exp-andersons-bridge-iitr,
+      "repo": "https://github.com/virtual-labs/exp-andersons-bridge-iitr",
       "tag": "v1.0.0",
       "deploy": true
     },
