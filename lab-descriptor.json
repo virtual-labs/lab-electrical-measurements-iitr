@@ -15,46 +15,46 @@
       "name": "Familiarization with measuring instruments",
       "short-name": "measuring-instruments",
       "repo": "https://github.com/virtual-labs/exp-measuring-instruments-iitr",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Measurement of unknown resistance by Wheatstone's bridge",
       "short-name": "wheatstone-bridge",
       "repo": "https://github.com/virtual-labs/exp-wheatstone-bridge-iitr",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Measurement of low resistance by Kelvin's double bridge",
       "short-name": "kelvin-sdouble-bridge",
       "repo": "https://github.com/virtual-labs/exp-kelvin-sdouble-bridge-iitr",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "Measurement of capacitance by Schering Bridge",
       "short-name": "schering-bridge",
       "repo": "https://github.com/virtual-labs/exp-schering-bridge-iitr",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "To measure the value of unknown inductance with the help of Anderson's Bridge",
       "short-name": "andersons-bridge",
       "repo": "https://github.com/virtual-labs/exp-andersons-bridge-iitr",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
       "name": "To find the value of unknown inductance using a Maxwell's Bridge",
       "short-name": "maxwells-bridge",
       "repo": "https://github.com/virtual-labs/exp-maxwells-bridge-iitr",
-      "tag": "v1.0.0",
+      "tag": "v1.0.1",
       "deploy": true
     },
     {
-      "name": "Three phase power measurement using (a) Single Wattmeter Method (b) Two Wattmeter Method",
+      "name": "Three Phase Power Measurement Using Two Wattmeter Method",
       "short-name": "three-phase-power",
       "repo": "https://github.com/virtual-labs/exp-three-phase-power-iitr",
       "tag": "v1.0.0",
